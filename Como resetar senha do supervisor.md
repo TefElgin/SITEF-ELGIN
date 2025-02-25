@@ -9,7 +9,7 @@
 <img src="imagens/listar_clientes.png" alt="Interface inicial do portal" width="600" />
 
 ##### 3. Clicar no nome do cliente::
-<img src="imagens/listar_clientes.png" alt="Lista de clientes" width="600" />
+<img src="imagens/nome_cliente.png" alt="Lista de clientes" width="600" />
 
 ##### 4. Clicar em editar:
 <img src="imagens/editar_nome_cliente.png" alt="Dados do estabelecimento" width="600" />
