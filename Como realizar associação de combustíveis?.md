@@ -43,7 +43,7 @@ https://github.com/TefElgin/SITEF-ELGIN/blob/main/Imagens/Associacao%20de%20Comb
 <img src="https://github.com/TefElgin/SITEF-ELGIN/blob/f5678d03210d2706f51c036328b155f5a947e6fd/Imagens/1.Associacao%20de%20combust%C3%ADveis/associafinal_1.png" width="850">
 
 
-##### 9. Ao final do processo, deve ser exibida a lista completa dos produtos.
+##### 7. Ao final do processo, deve ser exibida a lista completa dos produtos.
 
 <img src="https://github.com/TefElgin/SITEF-ELGIN/blob/2da1e765a407fa668ca0c26ba81fde3b6877c7a2/Imagens/1.Associacao%20de%20combust%C3%ADveis/conclusao_combustiveis.png" width="850">
 
