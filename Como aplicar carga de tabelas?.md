@@ -27,12 +27,12 @@
 
 ##### O resultado é exibido ao final do processo, devendo retornar apenas "OK". 
 
-#### Ao final da aplicação da carga de tabelas, é possível "forçar" a aplicação da carga no terminal. Segue abaixo o procedimento para aplicação:
+#### AO FINAL DA APLICAÇÃO DA CARGA DE TABELAS NO SERVIDOR, É POSSÍVEL FORÇAR A APLICAÇÃO NO TERMINAL. SEGUE ABAIXO O PROCEDIMENTO:
 
-#### *DLL: Basta acessar o diretório c:/clisitef, apagar a pasta ChavesClisitef; reiniciar a aplicação comercial(sistema de vendas) e aplicar uma nova carga de tabelas, sendo possível também, realizar apenas uma nova transação.
+##### *DLL: Basta acessar o diretório c:/clisitef, apagar a pasta ChavesClisitef; reiniciar a aplicação comercial(sistema de vendas) e aplicar uma nova carga de tabelas, sendo possível também, realizar apenas uma nova transação.
 
 
-#### *TROCA DE ARQUIVOS: Basta acessar o diretório C:/Cliente, apagar a pasta ChavesBiblPinPad e aplicar uma nova carga de tabelas via MODULAR.
+##### *TROCA DE ARQUIVOS: Basta acessar o diretório C:/Cliente, apagar a pasta ChavesBiblPinPad e aplicar uma nova carga de tabelas via MODULAR.
 
 
 
