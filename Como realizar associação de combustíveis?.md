@@ -46,3 +46,6 @@ https://github.com/TefElgin/SITEF-ELGIN/blob/main/Imagens/Associacao%20de%20Comb
 ##### 9. Ao final do processo, deve ser exibida a lista completa dos produtos.
 
 <img src="https://github.com/TefElgin/SITEF-ELGIN/blob/2da1e765a407fa668ca0c26ba81fde3b6877c7a2/Imagens/1.Associacao%20de%20combust%C3%ADveis/conclusao_combustiveis.png" width="850">
+
+
+##### Observação: As alterações realizadas na associação de combustíveis, produzem efeitos apenas após o reset do módulo, que ocorre diariamente às 02h00.
