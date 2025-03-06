@@ -21,7 +21,7 @@
 <img src="https://github.com/TefElgin/SITEF-ELGIN/blob/847020e9e0f50dc6e4972f4dcea1e52e066d3133/Imagens/2.%20Carga%20de%20tabelas/2_modulo.png" width="850">
 
 
-##### 3. No campo "Empresa", inserir o código da loja, clicar na opção ao lado do código da loja, de modo que seja exibido um símbolo de seleção. Após isso, basta clicar em "ENVIAR", para aplicar a carga de tabelas(vide imagem abaixo).
+##### 4. No campo "Empresa", inserir o código da loja, clicar na opção ao lado do código da loja, de modo que seja exibido um símbolo de seleção. Após isso, basta clicar em "ENVIAR", para aplicar a carga de tabelas(vide imagem abaixo).
 
 <img src="https://github.com/TefElgin/SITEF-ELGIN/blob/847020e9e0f50dc6e4972f4dcea1e52e066d3133/Imagens/2.%20Carga%20de%20tabelas/3_sucesso.png" width="850">
 
