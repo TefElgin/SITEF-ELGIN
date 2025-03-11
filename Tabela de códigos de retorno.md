@@ -1,8 +1,3 @@
-## Segue abaixo a tabela de códigos de retorno:
-
-##### Observar o campo "Retorno = "
-
-
 ### Tabela de códigos de retorno
 
 
